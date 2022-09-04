@@ -1,2 +1,4 @@
 C#/bin
 C#/obj
+# Rust Generated files
+Rust/traversy-tut/target/
