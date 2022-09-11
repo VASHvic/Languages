@@ -1,4 +1,5 @@
 pub fn run(){
+  print!("\n----------VARS FILE----------------\n");
   let name = "Brad";
   let mut age = 37;
   println!("My name is {} and I am {}", name, age);
