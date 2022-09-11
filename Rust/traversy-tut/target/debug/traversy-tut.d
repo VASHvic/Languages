@@ -1,1 +1,0 @@
-C:\Users\VASH\Desktop\VS\Languages\Rust\traversy-tut\target\debug\traversy-tut.exe: C:\Users\VASH\Desktop\VS\Languages\Rust\traversy-tut\src\main.rs C:\Users\VASH\Desktop\VS\Languages\Rust\traversy-tut\src\print.rs C:\Users\VASH\Desktop\VS\Languages\Rust\traversy-tut\src\vars.rs
