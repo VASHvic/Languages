@@ -18,7 +18,4 @@ pub fn run() {
   let name = "Peter";
   let age = 27;
   println!("{:#?}", (name, age));
-
-
-
 }

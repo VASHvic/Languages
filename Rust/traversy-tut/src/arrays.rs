@@ -24,10 +24,4 @@ for x in numbers_vector.iter_mut() {
 for x in numbers_vector.iter() {
   print!("{},", x);
 }
-
-
-
-
-
-
 }
