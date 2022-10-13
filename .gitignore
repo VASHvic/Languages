@@ -1,6 +1,8 @@
 C#/bin
 C#/obj
 # Rust Generated files
-Rust/traversy-tut/target/
+Rust/*/target/
 Typescript/node_modules
 Node/node_modules
+*.exe
+*.csv
