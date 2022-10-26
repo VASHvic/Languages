@@ -2,6 +2,4 @@
 
 # Next
 
-- Ampliar C
-- C++
 - Carbon?
