@@ -1,0 +1,1 @@
+shutdown.exe -s -t 45 -c "Computer will shut down in 45 seconds"
