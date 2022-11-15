@@ -1,0 +1,1 @@
+for f in $1*; do mv -v "$f" "${f/$1/$2}"; done
