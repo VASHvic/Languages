@@ -6,3 +6,4 @@ Typescript/node_modules
 Node/node_modules
 *.exe
 *.csv
+node_modules

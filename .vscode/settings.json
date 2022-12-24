@@ -47,6 +47,8 @@
     "xutility": "cpp",
     "stack": "cpp",
     "stdio.h": "c",
-    "cabeceras.h": "c"
+    "cabeceras.h": "c",
+    "ctype.h": "c",
+    "stdlib.h": "c"
   }
 }
